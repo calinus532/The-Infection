@@ -8,5 +8,7 @@ https://youtu.be/b4zh4xl4vLc - tutorial-ul pentru accesarea bazei de date din Un
 
 Baza de date este legată la domeniul https://afaceriromania.ro/
 
+https://dynamospanish.com/flags/downloads/ - site-ul cu toate steagurile lumii
+
 Pentru inspirație ne-am ajutat de: - www.flaticon.com
                                   - www.pinterest.com
