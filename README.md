@@ -26,9 +26,10 @@
 + https://dynamospanish.com/flags/downloads/ -> site-ul cu toate **steagurile lumii**
 
 **Pentru inspirație ne-am ajutat de:** 
-+ www.flaticon.com
++ www.flaticon.com [^1]
 
-+ www.pinterest.com [^1]
-[^1]: https://pin.it/hIKK2QA
-
++ www.pinterest.com [^2]
+[^2]: https://pin.it/hIKK2QA
+[^1]: https://www.flaticon.com/free-icon/speed_1408870?term=speed&page=1&position=28&origin=search&related_id=1408870,
+  https://www.flaticon.com/free-icon/idea_566461?term=light+bulb&page=1&position=26&origin=search&related_id=566461
 
