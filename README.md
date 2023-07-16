@@ -28,6 +28,7 @@
 **Pentru inspirație ne-am ajutat de:** 
 + www.flaticon.com
 
-+ www.pinterest.com
++ www.pinterest.com [^1]
+[^1]: https://pin.it/hIKK2QA
 
 
