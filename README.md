@@ -1,3 +1,9 @@
+![LOGO JOC](https://github.com/calinus532/The-Infection/assets/138828409/3fba99f4-a07d-4252-96fa-6ed87e96064b)
+
+
+
+
+
 https://drive.google.com/file/d/1QNrRc8Z6bxgjLS2--id-xkYdVkbd87Zp/view?usp=share_link
 
 Script creat de GabrielBigardi, și îmbunătățit de https://www.youtube.com/@RehopeGames. 
