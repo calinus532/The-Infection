@@ -11,6 +11,12 @@
 
 **Specializare:** Științe ale naturii  
 
+## Instalarea și configurarea aplicației
+
+Aplicația se instalează de pe GitHub, accesând link-ul: 
+- **Varianta Windows**: https://github.com/calinus532/The-Infection/tree/main/The_Infection_Windows, mai apoi se caută `The Infection.exe` și se rulează.
+- **Varianta Android**: https://github.com/calinus532/The-Infection/tree/main/The_Infection_Android/The_Infection_BurstDebugInformation_DoNotShip/tempburstlibs, mai apoi se caută aplicația `The Infection.apk` și se rulează.
+
 ## Resurse externe
 
 + https://drive.google.com/file/d/1QNrRc8Z6bxgjLS2--id-xkYdVkbd87Zp/view?usp=share_link
