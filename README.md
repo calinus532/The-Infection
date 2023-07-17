@@ -35,7 +35,7 @@ Aplicația se instalează de pe GitHub, accesând link-ul:
 + www.flaticon.com [^1]
 
 + www.pinterest.com [^2]
-[^2]: https://pin.it/hIKK2QA
+[^2]: https://pin.it/hIKK2QA, https://pin.it/2t9717x
 [^1]: https://www.flaticon.com/free-icon/speed_1408870?term=speed&page=1&position=28&origin=search&related_id=1408870,
-  https://www.flaticon.com/free-icon/idea_566461?term=light+bulb&page=1&position=26&origin=search&related_id=566461
+  https://www.flaticon.com/free-icon/idea_566461?term=light+bulb&page=1&position=26&origin=search&related_id=566461, https://www.flaticon.com/free-icon/profile-user_64572?term=profile+user&page=1&position=7&origin=search&related_id=64572
 
