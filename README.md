@@ -15,7 +15,7 @@
 
 Aplicația se instalează de pe GitHub, accesând link-ul: 
 - **Varianta Windows**: https://github.com/calinus532/The-Infection/tree/main/The_Infection_Windows, mai apoi se caută `The Infection.exe` și se rulează.
-- **Varianta Android**: https://github.com/calinus532/The-Infection/tree/main/The_Infection_Android/The_Infection_BurstDebugInformation_DoNotShip/tempburstlibs, mai apoi se caută aplicația `The Infection.apk` și se rulează.
+- **Varianta Android**: https://github.com/calinus532/The-Infection/tree/main/The_Infection_Android/The_Infection_BurstDebugInformation_DoNotShip/tempburstlibs, mai apoi se caută arhiva The_Infection.rar, se dezarhivează, și se rulează aplicația `The_Infection.apk`.
 
 ## Resurse externe
 
