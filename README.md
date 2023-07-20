@@ -5,11 +5,18 @@
 „The Infection” este un joc video 2D Top-Down, de tip casual.
 
 ## Despre noi
-**Realizatori**: Gherghel Anamaria & Vezentan Călin
+### Realizatori:
++ Gherghel Anamaria & Vezentan Călin
+
+**Designerul** acestui proiect a fost: Gherghel Anamaria
+
+**Programatorul** acestui proiect  a fost: Vezentan Călin
+
+**Gameplay-ul** jocului a fost gândit de ambii membri ai echipei
 
 **Școala**: Liceul Teoretic ”Emil Racoviță” Baia Mare
 
-**Specializare:** Științe ale naturii  
+**Specializare:** Științe ale naturii
 
 ## Instalarea și configurarea aplicației
 
